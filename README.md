@@ -31,4 +31,4 @@ See the dashboard screenshot included in this repository.
 This project helped me practise Excel dashboard development and understand how visualizations can support business analysis.
 
 ## Acknowledgement
-This is a tutorial-guided learning project. Credit: [Add the YouTube tutorial title and link here].
+This is a tutorial-guided learning project. Credit: https://youtu.be/1yyRaCl31O0?si=om8xC0i7RLzRm-2r
